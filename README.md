@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @boosterlong
-- 👀 I’m interested in programming, dungeons & dragons and photography.
-- 🌱 I’m currently learning Ruby on Rails web development.
+- 👀 I’m interested in programming and photography.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: chartrandblake93@gmail.com
