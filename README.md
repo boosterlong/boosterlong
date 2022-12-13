@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @boosterlong
-- 👀 I’m interested in programming and photography.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: chartrandblake93@gmail.com
+# Blake Chartrand
+Thanks for visiting, public profile still under construction.
